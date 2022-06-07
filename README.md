@@ -5,9 +5,6 @@
 	- [Links](#links)
 	- [Showcase games](#showcase-games)
 	- [General Information](#general-information)
-	- [Support](#support)
-		- [Buy](#buy)
-		- [Spread the word](#spread-the-word)
 	- [Conventions](#conventions)
 		- [Branches](#branches)
 		- [Code Style](#code-style)
@@ -31,19 +28,14 @@ Supported unreal versions: `4.26`, `4.27`, `5.0`
     - Option to import from and export to plain text formats (e.g. json)
     - Real time display/edit functionality of the Dialogue runtime data.
 
-**Not yet convinced? Have you seen our [showcase page](https://gitlab.com/NotYetGames/DlgSystem/wikis/Feature-Showcase)?**
 
 ## Links
 
 * [🐛 CHANGELOG](Docs/CHANGELOG.md)
 * [💵 Support](#support) for how to support this project.
 * [📖 Wiki/Documentation](https://bit.ly/DlgWiki) - manual and tutorials
-* [🔢 Source Code (this Page)](https://bit.ly/DlgSource) - [Github Mirror](https://github.com/NotYetGames/DlgSystem)
 * [🛒 Marketplace **(BUY PLUGIN)**](https://bit.ly/DlgMarketplace)
 * [🏢 Example project](http://bit.ly/NYDlgSystemExample)
-* [Forum post](https://bit.ly/DlgForum)
-* [💬 Discord](https://bit.ly/NYDiscord)
-* [Twitter](https://twitter.com/NotYetDevs)
 
 ## Showcase games
 
@@ -61,14 +53,6 @@ This plugin is primary developed and used for our own [game (WarriOrb)](http://w
 We have put significant effort into it and decided to make it open source in order to help out other teams facing similar challenges.
 
 Contribution, feedback and constructive criticism are appreciated and we would be really happy to hear about your game using our tool.
-
-## Support
-
-**NOTE:** that initially the plugin was free on the marketplace but later we switched to a small fee because maintaining all of the binary versions for different engine targets took a lot of time, consider buying the plugin on the marketplace as a donation :).
-
-### Buy
-
-You can **buy** [this plugin](https://bit.ly/DlgMarketplace) or our other plugins on the [unreal engine marketplace](https://www.unrealengine.com/marketplace/en-US/profile/Not+Yet) and always get binary support for the latest 3 engine versions.
 
 ### Spread the word
 
